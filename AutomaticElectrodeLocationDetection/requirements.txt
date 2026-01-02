@@ -1,0 +1,7 @@
+numpy
+pyvista
+scikit-learn
+scipy
+trame
+trame-vtk
+trame-vuetify
